@@ -29,3 +29,6 @@ Linux内核支持inotify(at least 2.6.13)，可以检查/usr/include/linux/inoti
 
 ## 测试截图
 ![image](screenshot/1.png)
+
+进程的cpu占用率：
+![image](screenshot/进程的cpu占用率.png)
